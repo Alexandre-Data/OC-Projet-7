@@ -1,2 +1,2 @@
 # OC-Projet-7
-Fichier de base avec notions mlflow et ngrok
+Implémenter un modèle de scoring
